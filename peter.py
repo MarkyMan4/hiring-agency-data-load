@@ -16,7 +16,8 @@ for i in range(len(df)):
         'years_of_experience' : df.iloc[i]['Years of experience'],
         'email' : 'hutnik.markus@uwlax.edu',
         'password': 'abc123$',
-        'phone_number' : re.sub('(|)|\s+|-', '', df.iloc[i]['Phone'])   #rexex replace
+        'phone_number' : re.sub('(|)|\s+|-', '', df.iloc[i]['Phone']) ,  #rexex replace
+        'group' : 'healthcare_professional'
     }
     
-    requests.post('http://loaclhost:8000/api/easy_reg', data=body)
+    requests.post('http://loaclhost:8000/api/auth/easy_reg', data=body)
