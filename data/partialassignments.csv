@@ -1,0 +1,9 @@
+Healthcare Professional,,,Patient,,,,,,
+Firstname,Lastname,SSN,Firstname,Lastname,Date of birth,Days,Start date,Start time,End time
+Martha ,Wilkinson,644374825,Mei,Suzuki,"Jul 21,1945",All days,"April 10,2022",6:00 A.M.,6:00 P.M.
+Brian,Goldorf,527457489,Riku ,Suzuki,"Jan 29,1942",All days,"April 10,2022",6:00 A.M.,6:00 P.M.
+Shirley,Albert,547488944,Isabella,Leonardo,"May 19,1956",MWF,"April 11,2022",6:00 A.M.,12:00 P.M.
+Shirley,Albert,547488944,Lynn,Wauker,"Feb 01,1956",MWF,"April 11,2022",1:00 P.M.,5:00 P.M.
+Delores,Bensen,538467222,Ricaardo,Lorenzo,"Aug 16,1989",TThSu,"April 10,2022",10:00 A.M.,11:00 A.M.
+Melene,Thomson,501201839,Anega,Mahajan,"Jun 14,2003",TTh ,"April 12,2022",4:00 P.M.,5:00 P.M.
+Daniel,Wang,611577933,Arjun ,Mahajan,"Apr 20,1978",MF,"April 11,2022",10:00 A.M.,11:00 A.M.
