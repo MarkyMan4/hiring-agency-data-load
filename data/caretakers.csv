@@ -1,14 +1,6 @@
-Care Taker,,Pateint,,,,,,,,,,,,
-Firstname,Lastname,Firstname,Lastname,Gender,Date of birth,Location/address,Phone,Type of service,Days,Date requested,Start time,End time,Number of days,Constraints
-Minato,Suzuki,Mei,Suzuki,Female,"Jul 21,1945","167 Japanese Garden Rd., Newark, NJ 07101",(862) 070-5643,Nurse,All days,"April 01,2022",6:00 A.M.,6:00 P.M.,120,"Female nurse, aged >= 30"
-,,Riku ,Suzuki,Male,"Jan 29,1942","167 Japanese Garden Rd., Newark, NJ 07101",(862) 070-5643,Nurse,All days,"April 03,2022",6:00 A.M.,6:00 P.M.,120,aged >= 30
-Angela,Leonardo,Isabella,Leonardo,Female,"May 19,1956","45 Moore's Rd., Trenton, NJ 08608",(609) 189-9002,Nurse,MWF,"April 06,2022",6:00 A.M.,12:00 P.M.,65,Female nurse 
-,,Gabriele,Leonardo,Male,"Oct 27,1945","45 Moore's Rd., Trenton, NJ 08608",(609) 189-9002,Nurse,MWF,"April 06,2022",6:00 A.M.,12:00 P.M.,65,
-,,Riccardo,Lorenzo,Male,"Aug 16,1989","781 Morre's Rd., Trenton, NJ 08608",(609) 527-6333,Physiotherapist,TThSu,"April 06,2022",10:00 A.M.,11:00 A.M.,90,
-,,Angela,Leonardo,Female,"Nov 02,1980","45 Moore's Rd., Trenton, NJ 08608",(609) 189-9002,Psychiatrist,W,"April 06,2022",12:00 P.M.,1:00 P.M.,100,Female
-Rajan,Mahajan,Kanti,Mahajan,Male,"Dec 10,1943","10 LakeFront St., Princeton, NJ 08540",(609) 211-3111,Physiotherapist,TTh ,"April 05,2022",3:30 P.M.,4:00 P.M.,90,
-,,Anega,Mahajan,Female,"Jun 14,2003","10 LakeFront St., Princeton, NJ 08540",(609) 211-3111,Physiotherapist,TTh,"April 05,2022",4:00 P.M.,5:00 P.M.,90,Female
-,,Arjun,Mahajan,Male,"Apr 20,1978","780 Lakeshore Blvd., Princeton, NJ 08540",(609) 452-2774,Psychiatrist,MF,"April 05,2022",10:00 A.M.,11:00 A.M.,120,Male
-Christie,Wauker,Lynn,Wauker,Female,"Feb 01,1956","5544 Downing St., Paterson, NJ 07501",(551) 764-9990,Nurse,MWF,"April 08,2022",,,180,"Flexible schedule, upto 5 hours/day"
-Xu,Zhang,Hu,Zhang,Male,"Aug 15,1948","70 Mountain View St., Hoboken, NJ 07030",(551) 777-1414,Nurse,Su,"April 09,2022",,,90,"Flexible schedule, upto 5 hours/day"
-,,Yang ,Zhang,Female,"Nov 21,1951","70 Mountain View St., Hoboken, NJ 07030",(551) 777-1414,PhysiotherapistSu,,"April 09,2022",10:00 A.M.,10:30 A.M.,30,
+Firstname,Lastname,Address,Phone
+Minato,Suzuki,"167 Japanese Garden Rd., Newark, NJ 07101",(862) 070-5643
+Angela,Leonardo,"45 Moore's Rd., Trenton, NJ 08608",(609) 189-9002
+Rajan,Mahajan,"780 Lakeshore Blvd., Princeton, NJ 08540",(609) 527-3844
+Christie,Wauker,"5544 Downing St., Paterson, NJ 07501",(551) 764-9990
+Xu,Zhang,"70 Mountain View St., Hoboken, NJ 07030",(551) 753-1234
