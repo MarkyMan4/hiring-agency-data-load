@@ -1,0 +1,15 @@
+insert into agency_api_securityquestion (question) values ('What is your favourite city?');
+insert into agency_api_securityquestion (question) values ('What is your favourite color?');
+insert into agency_api_securityquestion (question) values ('What is your favourite car?');
+insert into agency_api_securityquestion (question) values ('What is the name of the city in which you were born?');
+insert into agency_api_securityquestion (question) values ('What is your mother''s maiden name?');
+insert into agency_api_securityquestion (question) values ('What is your favourite move?');
+insert into agency_api_securityquestion (question) values ('What is the name of your pet?');
+insert into agency_api_securityquestion (question) values ('What is the name of your oldest sibling?');
+insert into agency_api_securityquestion (question) values ('Which is the dream city in which you would like to work?');
+insert into agency_api_securityquestion (question) values ('In which year you graduated from high school?');
+insert into agency_api_securityquestion (question) values ('What is the nickname of your best friend?');
+insert into agency_api_securityquestion (question) values ('What is the name of your best family friend?');
+insert into agency_api_securityquestion (question) values ('What is your favourite food?');
+insert into agency_api_securityquestion (question) values ('Who is your favourite teacher?');
+insert into agency_api_securityquestion (question) values ('What is your favourite drink?');

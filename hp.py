@@ -5,7 +5,6 @@ from datetime import datetime
 
 df = pd.read_csv('data/hp.csv');  #dataframe
 
-
 salary_lookup = {
     1: {
         1: {
